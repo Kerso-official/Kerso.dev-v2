@@ -27,7 +27,7 @@ export default function Home() {
                     <h1 className="text-5xl font-semibold">My projects: </h1>
                     <ul className="max-w-md space-y-1 text-gray-500 list-none list-inside dark:text-gray-400">
                         <li>
-                            <b>&quot;KERSO.DEV v3&quot;</b> This site (this is not on github yet)
+                            <a href="https://github.com/Kerso-official/Kerso.dev-v2"><b>&quot;KERSO.DEV v3&quot;</b></a> This site
                         </li>
                         <li>
                             <a href="https://github.com/Kerso-official/MpkCheck-v3"><b>&quot;MpkCheck&quot;</b></a> Web app for checking bus stop schedule online
