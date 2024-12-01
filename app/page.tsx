@@ -1,7 +1,5 @@
 'use client'
 import { Typewriter } from 'react-simple-typewriter'
-import { FaDiscord } from "react-icons/fa6";
-
 export default function Home() {
 
 
